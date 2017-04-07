@@ -12,17 +12,7 @@ include "modules/form.php";
     <link rel="icon" href="images/favicon.png" type="image/x-icon">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-    <!-- <link rel="stylesheet" type="text/css" href="css/mystyle.css"> -->
     <link rel="stylesheet" type="text/css" href="css/mystyle.min.css">
-    <!-- <script type="text/javascript" src="libs\jquery\dist\jquery.min.js"></script> -->
-    <!-- <script async type="text/javascript" src="script/jquery.js"></script> -->
-    <!-- <script async src="https://code.jquery.com/jquery-2.2.4.min.js"></script> -->
-    <!-- <script async type="text/javascript" src="script/modernizr.js"></script> -->
-    <!-- <script async src="script/myscript.js"></script> -->
-    <script src="https://maps.api.2gis.ru/2.0/loader.js?pkg=full"></script>
-    <!-- <script async src="script/2gis_api.js"></script> -->
-    <!-- <script async src="script/2gis.js"></script> -->
-
     <title>МЦ «ЖИЗНЬ»</title>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -107,6 +97,7 @@ include "modules/form.php";
             </div>
         </div>
 	</div>
+<script src="https://maps.api.2gis.ru/2.0/loader.js?pkg=full"></script>
 <script type="text/javascript" src="script/scripts.min.js"></script>
 <!-- <script>window.jQuery || document.write('<script src="script/jquery.js"><\/script>')</script> -->
 </body>
