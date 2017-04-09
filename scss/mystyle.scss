@@ -72,9 +72,9 @@ a {
 .globalwidth {}
 
 .s-conteiner {
-	@include conteiner( 'menu-s.png');
+	@include conteiner( 'menu-s.jpg');
 	@media (max-width: $planshet) and (min-width: 580px) {
-		@include conteiner( 'menu.png');
+		@include conteiner( 'menu.jpg');
 	}
 }
 
@@ -467,7 +467,7 @@ a {
 	}
 
 	.s-conteiner {
-		@include conteiner( 'menu.png');
+		@include conteiner( 'menu.jpg');
 	}
 
 	.contacts-box {

@@ -114,7 +114,7 @@ a {
 .s-conteiner {
   margin: 0 auto;
   position: relative;
-  background: url("../images/menu-s.png") #fff no-repeat;
+  background: url("../images/menu-s.jpg") #fff no-repeat;
   background-size: contain;
   box-shadow: 0 0 15px #999;
   -webkit-box-shadow: 0 0 15px #999;
@@ -125,7 +125,7 @@ a {
     .s-conteiner {
       margin: 0 auto;
       position: relative;
-      background: url("../images/menu.png") #fff no-repeat;
+      background: url("../images/menu.jpg") #fff no-repeat;
       background-size: contain;
       box-shadow: 0 0 15px #999;
       -webkit-box-shadow: 0 0 15px #999;
@@ -545,7 +545,7 @@ a {
   .s-conteiner {
     margin: 0 auto;
     position: relative;
-    background: url("../images/menu.png") #fff no-repeat;
+    background: url("../images/menu.jpg") #fff no-repeat;
     background-size: contain;
     box-shadow: 0 0 15px #999;
     -webkit-box-shadow: 0 0 15px #999;
